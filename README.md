@@ -1,6 +1,6 @@
-# Dice Roller
+# Dice Roller (Android App)
 
-Simples aplicativo pra rodar um dados de seis lados.
+Simples aplicativo Android pra rodar um dados de seis lados.
 Foi criado durantes os exercícios de estudo do curso **Developing Android Apps with Kotlin** da Udacity.
 
 O curso está disponivel no link: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
